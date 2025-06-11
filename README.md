@@ -1,0 +1,2 @@
+# adminhsk.cn
+chinesetest
